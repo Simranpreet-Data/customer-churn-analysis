@@ -180,8 +180,11 @@ Customer-Churn-Analysis/
 
 ## 📷 Dashboard Preview
 
-> **Add screenshots of your Executive Dashboard and Customer Insights Dashboard here after uploading them to your GitHub repository.**
+### Executive Dashboard
+![Executive Dashboard](Images/01_Executive_Dashboard.png)
 
+### Customer Insights Dashboard
+![Customer Insights Dashboard](Images/02_Customer_Insights_Dashboard.png)
 ---
 
 ## 📌 Conclusion
